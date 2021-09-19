@@ -1,0 +1,37 @@
+---
+layout: post
+title: Random zoo
+date: 2018-08-14 23:26:10.000000000 -05:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- OnTheMedia
+- Papers
+tags: []
+meta:
+  _edit_last: '1'
+author:
+  login: siteadmin
+  email: sallesina@uchicago.edu
+  display_name: siteadmin
+  first_name: ''
+  last_name: ''
+permalink: "/"
+---
+[caption id="attachment\_606" align="aligncenter" width="328"][![]({{ site.baseurl }}/assets/2018/08/IMG_20180701_125934-1-766x1024.jpg)](https://allesinalab.uchicago.edu/wp-content/uploads/2018/08/IMG_20180701_125934-1.jpg) When will I be in Lotka?[/caption]
+
+In a new paper, Carlos, José, Jacopo, Kent and I tackle this simple problem: if we take a Lotka-Volterra system with random parameters, and let the dynamics elapse, how big will the final, persistent community be?
+
+You can read the paper here:
+
+Carlos A. Serván, José A. Capitán, Jacopo Grilli, Kent E. Morrison & Stefano Allesina  
+[_Coexistence of many species in random ecosystems_](https://www.nature.com/articles/s41559-018-0603-6)  
+Nature Ecology & Evolution, 2018
+
+I've written a short blog post for Nature Ecology & Evolution Community, telling the story behind the paper, which [you can read here](https://natureecoevocommunity.nature.com/users/31165-stefano-allesina/posts/36128-the-problem-of-the-random-zoo).
+
+A [News & Views piece](https://www.nature.com/articles/s41559-018-0618-z) by Shaopen Wang accompany the paper. This work was [highlighted in Nature Physics](https://www.nature.com/articles/s41567-018-0255-0) by Federico Levi. This paper was also mentioned in an article in [Quanta Magazine](https://www.quantamagazine.org/how-nature-defies-math-in-keeping-ecosystems-stable-20180926/).
+
