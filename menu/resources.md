@@ -39,6 +39,9 @@ with Madlen Wilmes, a manual to learn all things computing for biologists
 
 ## Lecture notes
 
+* [Theoretical Community Ecology](https://stefanoallesina.github.io/Theoretical_Community_Ecology/) (graduate course, last taught at UofC in Spring 2020/21); lecture notes, code, homework.
+* [Fundamentals of Biological Data Analysis](https://stefanoallesina.github.io/BIOS_26318/) by Dmitry Kondrashov and Stefano Allesina (undergraduate course, last taught at UofC in Autumn 2021/22).
+
 ---
 
 ## Code and repositories
