@@ -4,6 +4,12 @@ title: Resources
 permalink: /resources
 ---
 
+## Books
+
+[![Computing skills for biologists](https://computingskillsforbiologists.com/wp-content/uploads/2018/10/CSB_book_mockup.jpg)](https://computingskillsforbiologists.com/)
+
+with Madlen Wilmes, a manual to learn all things computing for biologists
+
 ---
 
 ## Talks and Lectures
