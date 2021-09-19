@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Allesina λab'
-description:	       'Theoretical ecology'
+description:	       'Theoretical ecology & more'
 author:              'Stefano Allesina'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
