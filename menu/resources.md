@@ -16,6 +16,10 @@ permalink: /resources
   - Theoretical Ecology Seminar Series, November 24 2020
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/1ULD2jZVa8Q" frameborder="0" allowfullscreen></iframe>
 
+* *Predicting coexistence in experimental ecological communities*
+  - Center for the Physics of Biological Function, Princeton University, October 19 2020
+  - <iframe width="210" height="160" src="https://www.youtube.com/embed/UCjscSp2p6I" frameborder="0" allowfullscreen></iframe>
+
 * *A tour of the Generalized Lotka-Volterra model*
   - ICTP School on Community Ecology: from patterns to principles, January 2020, Sao Paulo, Brazil (4 lectures)
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/loU0O4-dHkw" frameborder="0" allowfullscreen></iframe>
