@@ -16,11 +16,11 @@ permalink: /people
 *** 
 
 Education:
-- Laurea in Environmental Sciences, Università degli Studi di Parma, 2001 (Advisors: Alessandro Zaccagnini, Antonio Bodini) 
-- PhD in Ecology, Università degli Studi di Parma, 2005 (Advisor: Antonio Bodini)
-- Postdoc, NOAA GLERL and Michigan State University, 2004-5 (Advisor: Scott Peacor)
-- Postdoc, University of Michigan, 2005-7 (Advisor: Mercedes Pascual)
-- Postdoc, National Center for Ecological Analysis & Synthesis, 2007-9
+- Laurea in Environmental Sciences, Università degli Studi di Parma, 2001 (Advisors: [Alessandro Zaccagnini](http://people.dmi.unipr.it/alessandro.zaccagnini/), [Antonio Bodini](https://scholar.google.com/citations?user=WYphSZgAAAAJ&hl=en)) 
+- PhD in Ecology, Università degli Studi di Parma, 2005 (Advisor: [Antonio Bodini](https://scholar.google.com/citations?user=WYphSZgAAAAJ&hl=en))
+- Postdoc, NOAA GLERL and Michigan State University, 2004-5 (Advisor: [Scott Peacor](https://www.canr.msu.edu/people/scott_peacor))
+- Postdoc, University of Michigan, 2005-7 (Advisor: [Mercedes Pascual](https://voices.uchicago.edu/mercedespascual/))
+- Postdoc, [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/), 2007-9
 
 
 ***
@@ -52,20 +52,20 @@ None at the moment
 
 ## Alumni
 
-* Danyel Maynard (postdoc, now  Senior Scientist at ETH Zurich)
-* Jacopo Grilli (postdoc, now Associate Research Officer in the QLS section, ICTP )
-* Gyuri Barabás (postdoc, now Research Fellow at University of Linköping, Sweden)
-* Madlen Wilmes (postdoc, now at Jove)
-* Samraat Pawar (postdoc, now Senior Lecturer, Imperial College, UK)
-* Phillip Staniczenko (postdoc, now Assistant Professor at CUNY, Brooklyn College )
-* Anna Eklöf (postdoc, now Senior Lecturer, University of Linköping, Sweden)
+* [Danyel Maynard](https://www.maynardecology.com/) (postdoc, now  Ambizione Fellow at ETH Zürich)
+* [Jacopo Grilli](https://jacopogrilli.github.io/) (postdoc, now Associate Research Officer in the QLS section, ICTP )
+* [Gyuri Barabás](https://liu.se/en/employee/gyoba85) (postdoc, now Assistant Professor at University of Linköping, Sweden)
+* [Madlen Wilmes](https://www.linkedin.com/in/madlen-wilmes-a4342078) (postdoc, now manager at BMO Financial Group)
+* [Samraat Pawar](https://www.imperial.ac.uk/people/s.pawar) (postdoc, now Reader, Imperial College, UK)
+* [Phillip Staniczenko](https://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1398) (postdoc, now Assistant Professor at CUNY, Brooklyn College )
+* [Anna Eklöf](https://liu.se/en/employee/annek49) (postdoc, now Senior Lecturer, University of Linköping, Sweden)
 
 ***
 
-* Carlos Marcelo-Serván (graduate student, now PhD student in the Department of Mathematics, UofC)
-* Matthew Michalska-Smith (graduate student, now postdoc at U Minnesota)
-* Elizabeth Sander (graduate student, now at CIVIS Analytics)
-* Si Tang (graduate student, now Assistant Professor, U. Lehigh)
+* [Carlos Marcelo-Serván](https://mathematics.uchicago.edu/people/profile/carlos-andres-marcelo-sevran/) (graduate student, now PhD student in the Department of Mathematics, UofC)
+* [Matthew Michalska-Smith](https://michalska-smith.com/) (graduate student, now postdoc at U Minnesota)
+* [Elizabeth Sander](http://www.elisander.com/about/) (graduate student, now at CIVIS Analytics)
+* [Si Tang](https://www.lehigh.edu/~sit218/) (graduate student, now Assistant Professor, U. Lehigh)
 * Linnea Jones (rotation)
 
 ***
