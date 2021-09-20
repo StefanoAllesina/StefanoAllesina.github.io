@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Stability criteria in Nature
-date: 2012-02-20 15:51:59.000000000 -06:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 Back in 2001, when I was studying for my PhD entrance exam, I read May's 1972 paper for the first time, and fell in love with this problem.
 
 May's result is very simple to explain: take _S_ species and suppose that each species interacts with any other with probability _C_. Then, the expected number of connections for each species is _SC_. Now assume that the ecosystem is at a steady state: species do not change in density through time if not perturbed. If two species interact, the effect of species _a_ on species _b_ is taken from a normal distribution with mean _0_ and variance _σ²_. Finally, the effect of _a_ species on itself is assumed to be _-1_ (i.e., there is some sort of self-regulation).

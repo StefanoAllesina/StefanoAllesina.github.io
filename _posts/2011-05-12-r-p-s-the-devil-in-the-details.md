@@ -1,25 +1,11 @@
 ---
 layout: post
 title: 'R-P-S: The devil in the details'
-date: 2011-05-12 23:18:27.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 As we know all very well, in theoretical ecology the devil is in the details. Jose and I found that slightly altering the interaction rules for competition on a lattice can produce very different results. The findings are in a new paper in Ecology:
 
 Interaction rules affect species coexistence in intransitive networks  

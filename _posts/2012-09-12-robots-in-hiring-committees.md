@@ -1,26 +1,11 @@
 ---
 layout: post
 title: Robots in Hiring Committees
-date: 2012-09-12 19:48:35.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: OnTheMedia
+tags: [papers,media]
 ---
+
 When I sit in a hiring committee, I ask myself: is it even possible to predict who's going to be a good scientist by looking at a CV? It turns out that yes, it is possible.
 
 A piece in Nature on the delicate topic of measuring scientists productivity. Daniel Acuna, Konrad Kording and I tried to predict the future h-index of neuroscientists. You can find the article here:

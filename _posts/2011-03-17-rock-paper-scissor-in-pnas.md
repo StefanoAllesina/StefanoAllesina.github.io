@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Rock-Paper-Scissor in PNAS
-date: 2011-03-17 23:10:27.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 A new article by Allesina & Levine in the Proceedings of the National Academy of Sciences proposes a new theory of biodiversity.
 
 In a new article, published this week in PNAS, Jonathan Levine and I propose a new biodiversity theory based on "rock-paper-scissor" intransitive dynamics. Here's the abstract:

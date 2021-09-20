@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Reactivity & Stability
-date: 2014-06-18 17:13:38.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 After studying the stability of large ecological networks, we wanted to try to describe the transient dynamics following a small perturbation of the equilibrium. We thus studied "reactivity", which tells us whether perturbations of a stable equilibrium are going to be amplified before decaying.
 
 The paper is now out:

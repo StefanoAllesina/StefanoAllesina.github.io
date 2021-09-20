@@ -1,26 +1,11 @@
 ---
 layout: post
 title: 10 Years in Science
-date: 2012-01-02 23:26:32.000000000 -06:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Anniversaries
-- Sentimental
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Anniversaries
+tags: [anniversaries,sentimental]
 ---
+
 > Exactly 10 years ago, I was starting my PhD
 
 January 1st 2002 was my first day as an official PhD candidate, funded by the Italian Ministry of Education. I had been hanging around Antonio Bodini's lab for a couple of months while preparing my entrance examination, but that was unofficial (and unpaid).

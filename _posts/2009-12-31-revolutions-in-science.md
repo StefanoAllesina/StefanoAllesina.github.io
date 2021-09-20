@@ -1,26 +1,10 @@
 ---
 layout: post
 title: Revolutions in Science
-date: 2009-12-31 20:55:12.000000000 -06:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories:OnTheMedia
+tags: [papers,media]
 ---
+
 > Author and physicist Mark Buchanan comments on my preprint on modeling peer review in Nature Physics
 
 A nice piece on a possible revolution in science coming from a radical change in the way basic practices of science are carried out. The article discusses in details the project outlined in [this preprint](http://arxiv.org/abs/0911.0344).

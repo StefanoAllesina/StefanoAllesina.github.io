@@ -1,26 +1,11 @@
 ---
 layout: post
 title: Nestedness
-date: 2013-01-22 19:23:46.000000000 -06:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Code
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers,code]
 ---
+
 I always joke in the lab that anybody who wants to propose a new measure in ecology (or index, etc.) should pay $1,000, $2,000 if the new measure has an acronym. These funds could pay for graduate students to go to some conference.
 
 The only exception to the rule is for studies showing that two seemingly different measures are in fact the same thing. This is the case of our recent study on nestedness, published today in Nature Communications:

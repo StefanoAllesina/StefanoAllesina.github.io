@@ -1,26 +1,11 @@
 ---
 layout: post
 title: Random zoo
-date: 2018-08-14 23:26:10.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers,media]
 ---
+
 [caption id="attachment\_606" align="aligncenter" width="328"][![]({{ site.baseurl }}/assets/2018/08/IMG_20180701_125934-1-766x1024.jpg)](https://allesinalab.uchicago.edu/wp-content/uploads/2018/08/IMG_20180701_125934-1.jpg) When will I be in Lotka?[/caption]
 
 In a new paper, Carlos, José, Jacopo, Kent and I tackle this simple problem: if we take a Lotka-Volterra system with random parameters, and let the dynamics elapse, how big will the final, persistent community be?

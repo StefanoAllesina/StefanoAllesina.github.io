@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Rock-Paper-Scissor media coverage
-date: 2011-03-24 23:16:18.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: OnTheMedia
+tags: [media,papers]
 ---
+
 #### Press Releases
 
 [EurekAlert!  

@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Neutral theory on a graph
-date: 2010-08-27 21:10:11.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 A new paper in PLoS Computational Biology relates speciation rate and graph theory
 
 A new paper by Melian et al. explores speciation rates when the genome of individuals is explicitly modeled. In this model, two individuals can reproduce if their genetic similarity is sufficiently high. This idea draws a connection between speciation and graph theory: species are components of a "mating graph".
