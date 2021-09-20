@@ -26,12 +26,24 @@ with Madlen Wilmes, a manual to learn all things computing for biologists
   - Center for the Physics of Biological Function, Princeton University, October 19 2020
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/UCjscSp2p6I" frameborder="0" allowfullscreen></iframe>
 
+* *What's in a Name? List of Names Reveal Differences in Academic Systems*
+  - Center for Data and Computing, University of Chicago, May 31 2020
+  - <iframe width="210" height="160" src="https://www.youtube.com/embed/f62TDUQUrkk" frameborder="0" allowfullscreen></iframe>
+
 * *A tour of the Generalized Lotka-Volterra model*
   - ICTP School on Community Ecology: from patterns to principles, January 2020, Sao Paulo, Brazil (4 lectures)
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/loU0O4-dHkw" frameborder="0" allowfullscreen></iframe>
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/skUQx6HFbFw" frameborder="0" allowfullscreen></iframe>
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/sg3DV3LzAGA" frameborder="0" allowfullscreen></iframe>
   - <iframe width="210" height="160" src="https://www.youtube.com/embed/iw0l6PuvWXw" frameborder="0" allowfullscreen></iframe>
+
+* *Higher-order interactions stabilize dynamics in a generalized rock-paper-scissors game*
+  - BES 2016, Liverpool, UK, December 14 2016
+  - <iframe width="210" height="160" src="https://www.youtube.com/embed/vJtWZSo1CrM?t=250" frameborder="0" allowfullscreen></iframe>
+
+* *Species Coexistence in Complex Ecological Networks*
+   - NetSci 2012, Evanston, IL, June 20 2012
+   - <iframe width="210" height="160" src="https://www.youtube.com/embed/r6Q3t4as9VE" frameborder="0" allowfullscreen></iframe>
 
 
 
