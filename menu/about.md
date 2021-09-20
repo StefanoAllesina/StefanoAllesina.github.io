@@ -4,9 +4,15 @@ title: About
 permalink: /about
 ---
 
-**Allesina λab**
+### Allesina λab
 
-The University of Chicago, Department of Ecology & Evolution, Zoology Building room 403 and 403a, 1101 E. 57th street, 60637 Chicago, IL, USA. 
+> "too mathematical to interest most biologists and not sufficiently mathematical to interest most mathematicians"
+> J.B.S. Haldane
+
+...The University of Chicago, 
+...Department of Ecology & Evolution, 
+...Zoology Building room 403 and 403a, 
+...1101 E. 57th street, 60637 Chicago, IL, USA. 
 
 ### What we do
 
@@ -16,8 +22,6 @@ We develop new mathematical, statistical and computational methods for theoretic
 - **Stability of large ecological systems**: using Random Matrix Theory, we can study the large-scale behavior of ecological communities.
 - **Game theoretical models in ecology**: like the replicator equation and its cousins.
 - **Science of science**: can we study the scientific endeavor using the same tools we develop for other complex systems? How shall we evaluate the impact of researchers? How shall we fix the peer-review algorithm?
-
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
 ### Join the laboratory
 
