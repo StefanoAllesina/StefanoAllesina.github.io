@@ -4,6 +4,7 @@ title: Teaching in Brazil
 type: post
 categories: Videos
 tags: [teaching,videos]
+image: lectures_talks_bw.jpg
 ---
 
 Here are four lectures I have delivered in Sao Paulo for [this school](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles/). You can find the lecture notes [here](https://stefanoallesina.github.io/Sao_Paulo_School/intro.html).
