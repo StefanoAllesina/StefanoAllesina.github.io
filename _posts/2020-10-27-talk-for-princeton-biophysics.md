@@ -4,6 +4,7 @@ title: Talk for Princeton Biophysics
 type: post
 categories: Videos
 tags: [videos,talks]
+image: lectures_talks_bw.jpg
 ---
 
 One of the few silver linings of the pandemic is the fact that seminars tend to be recorded. Here's a talk I gave for the seminar series of the Center for the Physics of Biological Function at Princeton.
