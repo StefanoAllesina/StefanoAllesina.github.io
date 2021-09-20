@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Looking for a postdoc
-date: 2016-07-29 23:02:29.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Events
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Events
+tags: [events]
 ---
+
 <p>With Gyuri leaving for Sweden, the laboratory is short of a postdoc. I am therefore looking for a new postdoc who could start in late 2016 or early 2017. Here below I past the ad I am circulating.</p>
 <h3>Postdoctoral position ---
 Allesina Laboratory, University of Chicago

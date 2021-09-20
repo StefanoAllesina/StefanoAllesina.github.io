@@ -1,26 +1,11 @@
 ---
 layout: post
 title: More is more (when it comes to abstracts)
-date: 2015-04-30 20:53:55.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-- Papers
-tags: []
-meta:
-  _edit_last: '4'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: OnTheMedia
+tags: [papers,media]
 ---
+
 In the summer of 2013, I was coordinating a class meant to prime incoming graduate students on&nbsp;what it takes to&nbsp;succeed in graduate school. One session dealt with&nbsp;writing good abstracts. You have heard the usual&nbsp;advice: keep it short and simple, avoid jargon, write it for a general reader, etc.
 
 I thought that it would be fun to test&nbsp;whether following this type of advice increases&nbsp;readership (citations). After a few months,&nbsp;I pitched this idea to my&nbsp;friend [James Evans](http://www.knowledgelab.org/people/detail/james_a_evans/), and we decided to try it out with the help of [Cody Weinberger](http://www.codyweinberger.com/page-cv/), an undergraduate student in my laboratory.

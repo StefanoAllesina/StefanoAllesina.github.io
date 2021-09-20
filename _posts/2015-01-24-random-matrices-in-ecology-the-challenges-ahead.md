@@ -1,26 +1,11 @@
 ---
 layout: post
 title: 'Random matrices in ecology: the challenges ahead'
-date: 2015-01-24 17:03:43.000000000 -06:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-  _oembed_5c298914eae65b01dcf3e870ee724877: "{{unknown}}"
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 [![RMT-Product]({{ site.baseurl }}/assets/2015/01/RMT-Product-300x171.png)](http://allesinalab.uchicago.edu/wp-content/uploads/2015/01/RMT-Product.png)In October 2013, I was a speaker at the [29th&nbsp;Annual Meeting of the Society of Population Ecology](http://www.geocities.jp/populecol29/e/keynotes-e.html), held in Osaka, Japan. The invitation came with the possibility of writing an article for a special issue of the journal Population Ecology.
 
 &nbsp;

@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Two new papers
-date: 2016-06-25 00:00:02.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 <p>Two papers I am very fond of just came out.</p>
 <p>The first one deals with competition: for decades, we've been teaching undergraduate students about the principle of competitive exclusion, showing the simple and appealing notion that intra-specific competition has to exceed inter-specific competition for two species to coexist. Often, however, we fail to mention that this simple rule does not extend to more than two species (guilty as charged).</p>
 <p>Can we say anything interesting about the role of intra- and inter-competition in determining the stability of large systems? Turns out that some fairly old results in linear algebra, mixed with more recent advances in random matrix theory,  can be used to write simple conditions for the stability of large competitive communities.</p>

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Talk for Princeton Biophysics
-date: 2020-10-27 07:54:54.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: videos
+categories: Videos
 tags: [videos,talks]
 ---
 

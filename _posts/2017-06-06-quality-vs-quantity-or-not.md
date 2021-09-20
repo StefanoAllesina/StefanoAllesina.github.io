@@ -1,25 +1,11 @@
 ---
 layout: post
 title: Quality vs Quantity.... or not?
-date: 2017-06-06 17:20:59.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 <p>It is not unusual to read the tirade of a senior scientist complaining that science was better back then, when papers were fewer, and ideas better (a perfect example of this genre is <a href="http://www.nature.com/news/the-pressure-to-publish-pushes-down-quality-1.19887">here</a>). Usually, the conclusion is that we should publish less, lest producing lower-quality science.<br />
 These considerations are based on a quite precise hypothesis---
 that a scientist can either produce many papers, or produce fewer good ones. Detecting such a trade-off in actual data is quite difficult, though, as scientists vary dramatically in productivity, as well as field of study.  

@@ -1,27 +1,11 @@
 ---
 layout: post
 title: Network Spandrels
-date: 2018-02-05 16:38:10.000000000 -06:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Events
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-  _oembed_30d1003943b51dcd5a912a419f04aa39: "{{unknown}}"
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 <p>Biological networks show strong departures from simple models of random graphs. For example, they display broader degree distributions, high modularity, and strong preponderance of certain motifs.</p>
 <p>One might be tempted to interpret these features as a signal of a selective force pruning the space of possible networks, resulting in empirical networks possessing certain features.</p>
 <p>In one of my all-time favorite papers, <a href="https://www.sciencedirect.com/science/article/pii/S0169534706001674">Ricard Solé &amp; Sergi Valverde</a> proposed an alternative explanation: these features might be by-products of how the network was assembled. They dubbed this the "network-spandrel" hypothesis, referencing the famous paper by <a href="https://www.jstor.org/stable/77447">Gould &amp; Lewontin</a>.</p>

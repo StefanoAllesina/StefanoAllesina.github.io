@@ -1,26 +1,11 @@
 ---
 layout: post
 title: Countries and Citations
-date: 2014-10-08 13:00:30.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: OnTheMedia
+tags: [papers,media]
 ---
+
 <h4>Update: Joe Palca produced <a href="http://www.npr.org/2014/12/15/370878827/why-some-scientific-collaborations-are-more-beneficial-than-others">a story on this paper for the series "Joe's Big Idea"</a>. The story was broadcast today (15/12/14) in NPR's <em>Morning Edition</em>.</h4>
 <p>We live in a world dominated by rankings. Besides soccer teams, movies and restaurants, rankings of Universities and researchers have become commonplace.</p>
 <p>The <a href="http://www.sciencemag.org/content/275/5301/793.full" target="_blank">Scientific Wealth of Nations</a> has been measured in many ways, all centered on a <a href="http://www.nature.com/nature/journal/v430/n6997/full/430311a.html" target="_blank">very simple idea</a>: if a country producing a certain proportion of papers (<em>pp</em>) accrues a much larger proportion of citations (<em>pc</em>), then the country is producing high-quality science. Conversely, countries for which <em>pc &lt; pp</em> would produce lower-quality research.</p>

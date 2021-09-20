@@ -1,26 +1,11 @@
 ---
 layout: post
 title: Coexistence for more than two species
-date: 2017-06-01 16:55:42.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-  _oembed_afb4b9ccbf81c029bcd375676d66c8ff: "{{unknown}}"
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Papers
+tags: [papers]
 ---
+
 <p>One of the main obsessions in the laboratory is to build robust ecological theories for communities composed of many species.<br />
 This is especially important in competitive systems---
 much of our&nbsp; understanding in this area descends from the analysis of the dynamics of two competitors.  

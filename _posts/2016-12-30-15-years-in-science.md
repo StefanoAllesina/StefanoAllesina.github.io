@@ -1,26 +1,11 @@
 ---
 layout: post
 title: 15 years in science
-date: 2016-12-30 17:17:37.000000000 -06:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Anniversaries
-- Sentimental
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: Anniversaries
+tags: [anniversaries,sentimental]
 ---
+
 Hard to believe, but I've been working in science for fifteen years! Many things have happened since I started my PhD in Antonio Bodini's lab in&nbsp;Parma, but I [still](http://allesinalab.uchicago.edu/?p=108) have fun doing my job, and I am extremely grateful for the fantastic students, postdocs and colleagues who&nbsp;have been working with me through the years. The anniversary&nbsp;calls for a song!
 
 _studying large matrices and their eigenvalues_  

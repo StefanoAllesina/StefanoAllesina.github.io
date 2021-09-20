@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revolutions in Science
-categories:OnTheMedia
+categories: OnTheMedia
 tags: [papers,media]
 ---
 

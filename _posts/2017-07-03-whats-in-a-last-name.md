@@ -1,31 +1,11 @@
 ---
 layout: post
 title: What's in a last name?
-date: 2017-07-03 14:15:07.000000000 -05:00
 type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- OnTheMedia
-- Papers
-tags: []
-meta:
-  _edit_last: '1'
-  _oembed_a10aeacd014cdf4a3917c986f3ef1bed: "{{unknown}}"
-  enclosure: |
-    http://allesinalab.uchicago.edu/wp-content/uploads/2017/07/servizio.mp4
-    30794682
-    video/mp4
-author:
-  login: siteadmin
-  email: sallesina@uchicago.edu
-  display_name: siteadmin
-  first_name: ''
-  last_name: ''
-permalink: "/"
+categories: OnTheMedia
+tags: [papers,media]
 ---
+
 In a new paper [published today in PNAS](http://www.pnas.org/cgi/doi/10.1073/pnas.1703513114), Jacopo and I try to extract as much information as possible from an ostensibly meager source of data: a list of the names of all the researchers working in Italy, at the Centre National de la Recherche Scientifique in France, and at public universities in the US.
 
 We show that by using simple randomizations, one can highlight several interesting facts about these different academic systems.

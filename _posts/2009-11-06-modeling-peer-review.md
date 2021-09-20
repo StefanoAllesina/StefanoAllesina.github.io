@@ -3,6 +3,7 @@ layout: post
 title: Modeling peer review!
 type: post
 categories: Papers
+tags: [papers]
 ---
 
 A new working paper: "Accelerating the pace of discovery by changing the peer review algorithm".
