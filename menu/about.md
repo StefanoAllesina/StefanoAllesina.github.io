@@ -7,11 +7,16 @@ permalink: /about
 ### Allesina λab
 
 > "too mathematical to interest most biologists and not sufficiently mathematical to interest most mathematicians"
+
 > J.B.S. Haldane
 
+
 ...The University of Chicago, 
+
 ...Department of Ecology & Evolution, 
+
 ...Zoology Building room 403 and 403a, 
+
 ...1101 E. 57th street, 60637 Chicago, IL, USA. 
 
 ### What we do
