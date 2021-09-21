@@ -6,7 +6,7 @@ permalink: /people
 
 ## Stefano Allesina
 
-![Stefano as a young man](/assets/img/stefano_kid.JPG)
+![Stefano as a young man](/assets/img/stefano_kid.JPG){: width="450" }
 
 * Professor & Chair, [Department of Ecology & Evolution](https://ecologyandevolution.uchicago.edu/), University of Chicago
 * Member, [Committee on Evolutionary Biology](https://evbio.uchicago.edu/), University of Chicago
@@ -42,6 +42,19 @@ $^1$ <sub>According to a random stranger (naturally, the Best-Dressed man in Hyd
 
 ### Zachary Miller
 
+![Zach Miller](/assets/img/zach.jpg){: width="450" }
+
+Education:
+- B.S. in Ecology & Evolutionary Biology and Applied Math, Yale University, 2017
+
+*** 
+
+Google Scholar: <a href="https://scholar.google.com/citations?user=0IL4BlIAAAAJ" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a><br>
+Personal website: <a href="https://zacharyrmiller.netlify.app/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a><br>
+CV: <a href="assets/img/Zach_Miller_CV_9_2021.pdf" target="_blank"><i class="fa fa-file" aria-hidden="true"></i></a>
+
+
+*** 
 
 ### Pablo Lechon
 
