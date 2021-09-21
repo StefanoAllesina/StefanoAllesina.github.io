@@ -4,18 +4,21 @@ title: What's in a last name?
 type: post
 categories: OnTheMedia
 tags: [papers,media]
+image: papers.jpg
 ---
 
 In a new paper [published today in PNAS](http://www.pnas.org/cgi/doi/10.1073/pnas.1703513114), Jacopo and I try to extract as much information as possible from an ostensibly meager source of data: a list of the names of all the researchers working in Italy, at the Centre National de la Recherche Scientifique in France, and at public universities in the US.
 
 We show that by using simple randomizations, one can highlight several interesting facts about these different academic systems.
 
-[caption id="" align="aligncenter" width="235"] ![Queneau]({{ site.baseurl }}/assets/2017/07/exercices_de_style.jpg) In how many ways can you randomize a list of last names?[/caption]
+![Queneau](http://3.bp.blogspot.com/-N95uTt69FGQ/U1qM2TBEtII/AAAAAAAAAN4/TajvhaA5ZeU/s1600/raymond_queneau.png){: width="250" }
+
+*In how many ways can you randomize a list of last names?*
 
 The work&nbsp;is a bona fide [exercise in style](https://en.wikipedia.org/wiki/Exercises_in_Style): by introducing subtle variations of the randomization algorithm, we show that in Italy researchers work in the region where they were born and raised, while in the US geography does not influence the distribution of researchers; in France, we can detect academic couples working in the same unit; we demonstrate&nbsp;that academic nepotism in Italy (the focus of a [previous paper of mine](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0021160)) is declining; finally, we show that in the US immigration is field-specific.
 
-Jacopo Grilli & Stefano Allesina  
-_[Last name analysis of mobility, gender imbalance, and nepotism across academic systems](http://www.pnas.org/cgi/doi/10.1073/pnas.1703513114)_  
+Jacopo Grilli & Stefano Allesina<br>
+_[Last name analysis of mobility, gender imbalance, and nepotism across academic systems](http://www.pnas.org/cgi/doi/10.1073/pnas.1703513114)_<br>
 PNAS, 2017
 
 Because the article is paywalled for 6 months, I have stored a personal copy [here](http://allesinalab.uchicago.edu/wp-content/uploads/2017/08/Grilli_Allesina_PNAS_2017.pdf).  
@@ -28,15 +31,21 @@ The article is&nbsp;being covered by the popular press. Here below we link some 
 
 **Update** : the study was mentioned on 9/25/2017 in the TG3 news, in relation to a new&nbsp;scandal in which professors allegedly conspired to have their pupils hired irrespective of merit:
 
-[video width="928" height="522" mp4="http://allesinalab.uchicago.edu/wp-content/uploads/2017/09/test.mp4"][/video]
+<video muted autoplay controls>
+    <source src="https://github.com/StefanoAllesina/StefanoAllesina.github.io/blob/gh-pages/assets/img/test.mp4?raw=true" type="video/mp4">
+</video>
+
 
 The edition of the evening contains a brief interview with Jacopo:
 
-[video width="928" height="522" mp4="http://allesinalab.uchicago.edu/wp-content/uploads/2017/07/jacopo\_tg3.mp4"][/video]
+<video controls>
+    <source src="https://github.com/StefanoAllesina/StefanoAllesina.github.io/blob/gh-pages/assets/img/jacopo_tg3.mp4?raw=true" type="video/mp4">
+</video>
 
 On October 12th, TG3 broadcast a discussion on this theme (with [Francesco Sylos Labini](https://francescosyloslabini.info/) and [Vincenzo Barone](https://en.sns.it/ugov/persone/vincenzo-barone)), which includes an interview with yours truly:
 
-[video width="928" height="520" mp4="http://allesinalab.uchicago.edu/wp-content/uploads/2017/07/servizio.mp4"][/video]
+<video controls>
+    <source src="https://github.com/StefanoAllesina/StefanoAllesina.github.io/blob/gh-pages/assets/img/servizio.mp4?raw=true" type="video/mp4">
+</video>
 
-<script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"></script>
 

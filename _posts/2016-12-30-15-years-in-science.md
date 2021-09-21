@@ -4,6 +4,7 @@ title: 15 years in science
 type: post
 categories: Anniversaries
 tags: [anniversaries,sentimental]
+image: birthday.jpg
 ---
 
 Hard to believe, but I've been working in science for fifteen years! Many things have happened since I started my PhD in Antonio Bodini's lab in&nbsp;Parma, but I [still](http://allesinalab.uchicago.edu/?p=108) have fun doing my job, and I am extremely grateful for the fantastic students, postdocs and colleagues who&nbsp;have been working with me through the years. The anniversary&nbsp;calls for a song!
