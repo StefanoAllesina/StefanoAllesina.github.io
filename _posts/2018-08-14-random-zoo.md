@@ -4,16 +4,18 @@ title: Random zoo
 type: post
 categories: Papers
 tags: [papers,media]
+image: papers.jpg
 ---
 
-[caption id="attachment\_606" align="aligncenter" width="328"][![]({{ site.baseurl }}/assets/2018/08/IMG_20180701_125934-1-766x1024.jpg)](https://allesinalab.uchicago.edu/wp-content/uploads/2018/08/IMG_20180701_125934-1.jpg) When will I be in Lotka?[/caption]
+![When will I be in Lotka?](/assets/img/volterra.jpg)
+*When will I be in Lotka?*
 
 In a new paper, Carlos, José, Jacopo, Kent and I tackle this simple problem: if we take a Lotka-Volterra system with random parameters, and let the dynamics elapse, how big will the final, persistent community be?
 
 You can read the paper here:
 
-Carlos A. Serván, José A. Capitán, Jacopo Grilli, Kent E. Morrison & Stefano Allesina  
-[_Coexistence of many species in random ecosystems_](https://www.nature.com/articles/s41559-018-0603-6)  
+Carlos A. Serván, José A. Capitán, Jacopo Grilli, Kent E. Morrison & Stefano Allesina<br>
+[_Coexistence of many species in random ecosystems_](https://www.nature.com/articles/s41559-018-0603-6)<br>
 Nature Ecology & Evolution, 2018
 
 I've written a short blog post for Nature Ecology & Evolution Community, telling the story behind the paper, which [you can read here](https://natureecoevocommunity.nature.com/users/31165-stefano-allesina/posts/36128-the-problem-of-the-random-zoo).

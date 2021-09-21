@@ -4,11 +4,10 @@ title: Talk at the Italian Institute of Culture
 type: post
 categories: Events
 tags: [events]
+image: tags.jpg
 ---
 
 I am going to give a talk at the Italian Institute of Culture in Chicago on Feb 23, 2018 @ 7PM.
-
-![]({{ site.baseurl }}/assets/2018/02/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39985700%2F16342966527%2F1%2Foriginal.jpg?h=150&w=300&rect=0%2C20%2C654%2C327&s=986aaa11446a5595332f5f92f25de911)
 
 **Rock-Paper-Scissors: what can children's games teach us about biodiversity?**  
 Italian Cultural Institute of Chicago  

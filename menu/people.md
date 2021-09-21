@@ -8,9 +8,9 @@ permalink: /people
 
 ![Stefano as a young man](/assets/img/stefano_kid.JPG)
 
-* Professor & Chair, Department of Ecology & Evolution, University of Chicago
-* Member, Committee on Evolutionary Biology, University of Chicago
-* External Faculty, Northwestern Institute on Complex systems, Northwestern University
+* Professor & Chair, [Department of Ecology & Evolution](https://ecologyandevolution.uchicago.edu/), University of Chicago
+* Member, [Committee on Evolutionary Biology](https://evbio.uchicago.edu/), University of Chicago
+* External Faculty, [Northwestern Institute on Complex systems](https://www.nico.northwestern.edu/), Northwestern University
 * 2nd Best-Dressed man in Hyde Park $^1$
 
 *** 
@@ -32,7 +32,7 @@ U of Chicago page: <a href="https://ecologyandevolution.uchicago.edu/faculty/ste
 
 ***
 
-$^1$ <sub>According to a random stranger (naturally, the Best-Dressed man in Hyde Park) who stopped me in the street to let me know. Does not speak highly of the dress code in Hyde Park...<sub>
+$^1$ <sub>According to a random stranger (naturally, the Best-Dressed man in Hyde Park) who stopped me in the street to let me know. It says a lot about the dress code in Hyde Park...<sub>
 
 ## Postdocs
 
