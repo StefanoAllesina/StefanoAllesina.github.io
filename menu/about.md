@@ -21,7 +21,8 @@ We develop new mathematical, statistical and computational methods for theoretic
 
 - **Ecological networks**: species in ecological communities form tangled networks of ecological interactions. These networks differ from other social and technological networks in that the nodes are all different (i.e., they represent different species), rather than being of the same "type".
 - **Stability of large ecological systems**: using Random Matrix Theory, we can study the large-scale behavior of ecological communities.
-- **Game theoretical models in ecology**: like the replicator equation and its cousins.
+- **Game theoretical models in ecology**: many game-theoretical models, like the replicator equation and its cousins, can be used to solve ecological questions.
+- **Lotka-Volterra dynamics**: the Lotka-Volterra equations were proposed more than a century ago, and yet they still hold some secrets. Many other ecological models can be recast as larger-dimensional LV models in which dynamics occur in a lower-dimensional manifold.
 - **Science of science**: can we study the scientific endeavor using the same tools we develop for other complex systems? How shall we evaluate the impact of researchers? How shall we fix the peer-review algorithm?
 
 ### Join the laboratory

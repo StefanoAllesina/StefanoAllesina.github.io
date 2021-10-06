@@ -32,7 +32,7 @@ U of Chicago page: <a href="https://ecologyandevolution.uchicago.edu/faculty/ste
 
 ***
 
-$^1$ <sub>According to a random stranger (naturally, the Best-Dressed man in Hyde Park) who stopped me in the street to let me know. It says a lot about the dress code in Hyde Park...<sub>
+$^1$ <sub>According to a random stranger (naturally, the Best-Dressed man in Hyde Park) that stopped me in the street to let me know. It says a lot about the dress code in Hyde Park...<sub>
 
 ## Postdocs
 
