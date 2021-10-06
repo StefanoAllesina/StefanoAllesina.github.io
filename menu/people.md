@@ -36,7 +36,23 @@ $^1$ <sub>According to a random stranger (naturally, the Best-Dressed man in Hyd
 
 ## Postdocs
 
-### Paula Lemos-Costa
+### Paulinha (Paula) Lemos-Costa
+
+![Paulinha Lemos-Costa](/assets/img/paulinha.jpg){: width="450" }
+
+
+Education:
+- BSc in Biological Sciences, Universidade de São Paulo (USP), 2009
+- MSc in Ecology, Universidade de São Paulo (USP), 2013 (Advisor: [Paulo R. Guimarães Jr](http://guimaraeslab.weebly.com/))
+- PhD in Ecology, Universidade Estadual de Campinas (UNICAMP), 2018 (Advisor: [Marcus A. M. de Aguiar](https://sites.ifi.unicamp.br/aguiar/en/))
+
+***
+
+GitHub: <a href="https://github.com/paulinhalemos" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> <br>
+Google Scholar: <a href="https://scholar.google.com/citations?user=nyZK59UAAAAJ&hl=pt-BR" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a><br>
+ResearchGate: <a href="https://www.researchgate.net/profile/Paula-Lemos-Costa" target="_blank"><i class="fa fa-university" aria-hidden="true"></i></a><br>
+Personal website: <a href="https://lemoscosta.weebly.com/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a><br>
+CV: <a href="assets/img/Lemos-Costa_CV.pdf" target="_blank"><i class="fa fa-file" aria-hidden="true"></i></a>
 
 ## Graduate Students
 
@@ -53,11 +69,21 @@ Google Scholar: <a href="https://scholar.google.com/citations?user=0IL4BlIAAAAJ"
 Personal website: <a href="https://zacharyrmiller.netlify.app/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i></a><br>
 CV: <a href="assets/img/Zach_Miller_CV_9_2021.pdf" target="_blank"><i class="fa fa-file" aria-hidden="true"></i></a>
 
-
 *** 
 
-### Pablo Lechon
+### Pablo Lechón Alonso
 
+![Pablo Lechon](/assets/img/pablo.jpg){: width="450" }
+
+
+Education:
+- BSc in Physics - Universidad Complutense de Madrid
+- MSc in Computational Methods for Ecology and Evolution, Imperial College London
+
+***
+
+Google Scholar: <a href="https://scholar.google.com/citations?user=ZN7wwS8AAAAJ&hl=es&oi=ao" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a><br>
+CV: <a href="assets/img/Lechon_Alonso_CV.pdf" target="_blank"><i class="fa fa-file" aria-hidden="true"></i></a>
 
 ## Research Assistants
 
