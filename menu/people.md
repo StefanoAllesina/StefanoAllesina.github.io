@@ -82,7 +82,7 @@ Education:
 
 ***
 
-Google Scholar: <a href="https://scholar.google.com/citations?user=ZN7wwS8AAAAJ&hl=es&oi=ao" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a><br>
+Google Scholar: <a href="https://scholar.google.com/citations?user=hctWbgoAAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a><br>
 CV: <a href="assets/img/Lechon_Alonso_CV.pdf" target="_blank"><i class="fa fa-file" aria-hidden="true"></i></a>
 
 ### Katja Della Libera
